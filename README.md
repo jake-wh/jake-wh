@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 🧸
-**🚀 [LinkedIn](linkedin.com/in/jake-waterhouse-14668b282) <br />📨 [Email](mailto:jake.zan111@gmail.com)**
+**🚀 [LinkedIn](https://www.linkedin.com/in/jake-waterhouse-14668b282/) <br />📨 [Email](mailto:jake.zan111@gmail.com)**
 
 My name is Jake, and I am a python developer who is open to collaboration! 🙌
 
