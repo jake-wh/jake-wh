@@ -1,9 +1,9 @@
-# Welcome to my GitHub 🧸
+# Welcome to my GitHub
 **🚀 [LinkedIn](https://www.linkedin.com/in/jake-waterhouse-14668b282/) <br />📨 [Email](mailto:jake.zan111@gmail.com)**
 
 My name is Jake, and I am a python developer who is open to collaboration!
 
-## Have a great day!
+## Have a great day! 🧸
 
 <!--
 **jake-wh/jake-wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
