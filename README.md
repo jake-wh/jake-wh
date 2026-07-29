@@ -1,5 +1,5 @@
 # Welcome to my GitHub
-**🚀 [LinkedIn](https://www.linkedin.com/in/jake-waterhouse-14668b282/) <br />📨 [Email](mailto:jake.zan111@gmail.com)**
+**🚀 [LinkedIn](https://linkedin.com/in/jake-waterhouse) <br />📨 [Email](mailto:jake.waterhouse.11@gmail.com)**
 
 My name is Jake, and I am a Django developer.
 
